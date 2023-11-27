@@ -56,3 +56,6 @@ button.pack(side=BOTTOM, pady=40)
 # wind_speed_label = Label(root, text='Скорость ветра', str(wind_speed), 'м/с')
 
 root.mainloop()
+
+# Видео в помощь
+# https://www.youtube.com/watch?v=UDFlI4ZmM38
