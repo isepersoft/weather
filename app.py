@@ -22,11 +22,9 @@ def weather():
     print('Сейчас в городе', city, str(temperature), 'градусов')
     print('Ощущается как', str(temperature_feels), 'градусов')
     print('Скорость ветра', str(wind_speed), 'м/с')
-    print('Проверка')
 
 root = Tk()
 
-bitmap='img/logo.gif'
 
 root.title('Погода')
 root.geometry('300x400')
