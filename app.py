@@ -78,7 +78,3 @@ root.mainloop()
 
 # Видео в помощь
 # https://www.youtube.com/watch?v=UDFlI4ZmM38
-
-# print('Сейчас в городе', city, str(temperature), 'градусов')
-# print('Ощущается как', str(temperature_feels), 'градусов')
-# print('Скорость ветра', str(wind_speed), 'м/с')
